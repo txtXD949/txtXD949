@@ -2,6 +2,9 @@
 
 💻 **Junior developer**
 
+> [!CAUTION]
+> meow
+
 #### My projects:
 - [XD-music-studio](https://github.com/txtXD949/XD-music-studio) – audio editor
 - [parafect](https://github.com/txtXD949/parafect) – scare game with ghosts
@@ -34,3 +37,26 @@
 
 #### 🧠 Знание:
 ![ЕГЭ](https://img.shields.io/badge/ЕГЭ-информатика-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white)
+
+---
+
+### 📫 Связь и социальные сети
+
+#### 🧑‍💻 Основные контакты
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/txtXD949) 🐙 **GitHub**: [github.com/txtXD949](https://github.com/txtXD949)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l9596874@gmail.com) ✉️ **Почта**: [l9596874@gmail.com](mailto:l9596874@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/togggut) 💬 **Telegram**: [@togggut](https://t.me/togggut)
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/803227967014043689) 🎮 **Discord**: `foresss` (ID: `803227967014043689`) — [добавить в друзья](https://discordapp.com/users/803227967014043689)
+
+#### 📺 Контент и соцсети
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@foresss708) 📺 **YouTube**: [foresss708](https://www.youtube.com/@foresss708)
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ecstatic-Farmer-1249/) 🔴 **Reddit**: [u/Ecstatic-Farmer-1249](https://www.reddit.com/user/Ecstatic-Farmer-1249)
+
+#### 🎲 Игры и творчество
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://txt-xd.itch.io/) 🎲 **Itch.io**: [txt-xd.itch.io](https://txt-xd.itch.io/) — мои игры
+
+[![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/foresss_LL) ♟️ **Lichess**: [@foresss_LL](https://lichess.org/@/foresss_LL) — играем в шахматы
