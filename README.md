@@ -1,4 +1,4 @@
-### Hi, I'm txtXD949 👋
+## Hi, I'm txtXD949 👋
 
 💻 **Junior developer**
 
@@ -57,6 +57,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ecstatic-Farmer-1249/) 🔴 **Reddit**: [u/Ecstatic-Farmer-1249](https://www.reddit.com/user/Ecstatic-Farmer-1249)
 
 #### 🎲 Игры и творчество
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://txt-xd.itch.io/) 🎲 **Itch.io**: [txt-xd.itch.io](https://txt-xd.itch.io/) — мои игры
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://txt-xd.itch.io/) 🎲 **Itch.io**: [txt-xd.itch.io](https://txt-xd.itch.io/)
 
-[![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/foresss_LL) ♟️ **Lichess**: [@foresss_LL](https://lichess.org/@/foresss_LL) — играем в шахматы
+[![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/foresss_LL) ♟️ **Lichess**: [@foresss_LL](https://lichess.org/@/foresss_LL)
