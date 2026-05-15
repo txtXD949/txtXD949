@@ -9,6 +9,7 @@
 - [XD-music-studio](https://github.com/txtXD949/XD-music-studio) – audio editor
 - [parafect](https://github.com/txtXD949/parafect) – scare game with ghosts
 - [rezistorka](https://github.com/txtXD949/rezistorka) – website with dump
+- [tipamaps](https://github.com/txtXD949/tipamaps) – map desktop app
 
 ---
 
